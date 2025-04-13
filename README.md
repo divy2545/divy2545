@@ -47,7 +47,7 @@
 
 <div align="center">
   <h3>🔴 Git Commit Activity</h3>
-  <img src="https://github.com/piyushvermaa/piyushvermaa/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/divy2545/divy2545/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
