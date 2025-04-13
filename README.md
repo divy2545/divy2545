@@ -19,12 +19,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divy2545&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divy2545&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
-
----
 
 <div align="center">
   <h3>🛠️ Tech Stack</h3>
@@ -45,14 +39,22 @@
 
 ---
 
----
-
 <div align="center">
   <h3>🔥 GitHub Streak Stats</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divy2545&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github.com/divy2545/divy2545/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </div>
 
 ---
+
+---
+
+<div align="center">
+  <h3>📈 GitHub Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=divy2545&theme=dracula&hide_border=true" alt="Contribution Graph" />
+</div>
+
+----
+
 
 <div align="center">
   <h3>📊 Profile Views</h3>
