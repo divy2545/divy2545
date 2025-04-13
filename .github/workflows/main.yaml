@@ -31,3 +31,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+
+![GitHub Snake Light](https://github.com/divy2545/divy2545/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Snake Dark](https://github.com/divy2545/divy2545/blob/output/github-contribution-grid-snake-dark.svg)
