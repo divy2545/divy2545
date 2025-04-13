@@ -19,7 +19,6 @@
 
 ---
 
-
 <div align="center">
   <h3>🛠️ Tech Stack</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
@@ -41,20 +40,17 @@
 
 <div align="center">
   <h3>🔥 GitHub Streak Stats</h3>
-  <img src="https://github.com/divy2545/divy2545/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divy2545&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
-
 <div align="center">
   <h3>🔴 Git Commit Activity</h3>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=divy2545&theme=dracula&hide_border=true" alt="Git Commit Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divy2545&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Git Commit Activity" />
 </div>
 
-
-----
-
+---
 
 <div align="center">
   <h3>📊 Profile Views</h3>
