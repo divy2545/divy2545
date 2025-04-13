@@ -40,17 +40,16 @@
 ---
 
 <div align="center">
-  <h3>🔥 GitHub Streak Stats</h3>
-  <img src="https://github.com/divy2545/divy2545/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=divy2545&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
 </div>
 
----
 
 ---
 
 <div align="center">
-  <h3>📈 GitHub Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=divy2545&theme=dracula&hide_border=true" alt="Contribution Graph" />
+  <h3>📊 GitHub Contribution Activity</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=divy2545&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 ----
