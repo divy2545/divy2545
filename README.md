@@ -47,7 +47,7 @@
 
 <div align="center">
   <h3>🔴 Git Commit Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=divy2545&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Git Commit Activity" />
+  <img src="https://github.com/piyushvermaa/piyushvermaa/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
