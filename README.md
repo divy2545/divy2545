@@ -47,8 +47,7 @@
 
 ### 🐍 Contribution Graph
 
-![Snake animation](https://github.com/piyushvermaa/piyushvermaa/blob/output/github-contribution-grid-snake-dark.svg)
-
+<img src="https://raw.githubusercontent.com/divy2545/divy2545/output/snake.svg" alt="Snake animation" />
 <div align="center">
   <h3>📊 Profile Views</h3>
   <img src="https://profile-counter.glitch.me/divy2545/count.svg?" />
