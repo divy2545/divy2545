@@ -45,9 +45,11 @@
 
 ---
 
+---
+
 <div align="center">
-  <h3>🎮 Contribution Graph</h3>
-  <img src="https://github.com/divy2545/divy2545/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <h3>🔥 GitHub Streak Stats</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divy2545&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
