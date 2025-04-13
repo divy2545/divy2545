@@ -47,13 +47,7 @@
 
 ### 🐍 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divy2545/divy2545/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divy2545/divy2545/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/divy2545/divy2545/output/pacman-contribution-graph.svg">
-</picture>
-
----
+![Snake animation](https://github.com/piyushvermaa/piyushvermaa/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
   <h3>📊 Profile Views</h3>
