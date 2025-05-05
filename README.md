@@ -45,9 +45,11 @@
 
 ---
 
+<!--
 ### 🐍 Contribution Graph
 
 ![Snake animation](https://github.com/piyushvermaa/piyushvermaa/blob/output/github-contribution-grid-snake-dark.svg)
+-->
 
 
 <div align="center">
